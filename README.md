@@ -1,7 +1,6 @@
 # Flutter app in Zapp!
 
-A new Flutter project built with Zapp!
-
+Новый проект 
 ----
 
 > To learn how to use Zapp! check out the [documentation](https://docs.zapp.run)
